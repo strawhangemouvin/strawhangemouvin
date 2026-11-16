@@ -2,6 +2,8 @@
   <h1>✨ Hi there, I'm Nabila Monica! ✨</h1>
   <p><em>✦ Informatics Engineering Student | Aspiring Backend Developer ✦</em></p>
   <p><sub>° A little space where I learn, code, and create things °</sub></p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d28502975dd.gif" width="100%">
 </div>
 
 ---
@@ -75,15 +77,31 @@ Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (
 
 ---
 
-### 📈 GitHub Statistics
+### 💼 Experience & Teaching
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strawhangemouvin&show_icons=true&theme=default&hide_border=true" alt="Nabila's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawhangemouvin&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+✦ **Social Media Specialist**
+* **Program Beasiswa PUB** | *May 2026 – Nov 2026*
+* Managed and maintained the official social media channels of PUB UNAS PASIM.
+* Created engaging content schedules, drafted copy, and monitored audience engagement.
 
----
+✦ **Public Relations & Information Dissemination Officer**
+* **Program Beasiswa PUB** | *May 2026 – Oct 2026*
+* Handled official announcements, student updates, and news dissemination for PUB UNAS PASIM across campus networks and internal communication channels.
 
+✦ **Instructor of Web Fundamentals (HTML)**
+* **Program Beasiswa PUB** | *Jul 2026 – Aug 2026*
+* Taught web programming fundamentals to incoming cohort members, focusing on semantic HTML structure, accessibility standards, and web best practices.
+
+✦ **Instructor of Data Structures**
+* **Program Beasiswa PUB** | *Jan 2026 – Jun 2026*
+* Instructed scholarship recipients on fundamental data structures, including arrays, linked lists, stacks, queues, and tree traversals. Guided students through practical exercises.
+
+✦ **Instructor of C Programming**
+* **Program Beasiswa PUB** | *Sep 2025 – Jan 2026*
+* Delivered foundational C programming lectures covering syntax, control flow, functions, memory allocation, and pointer operations. Mentored students through coding challenges.
+
+  ---
+  
 ### 📬 Connect With Me
 
 <p align="center">
