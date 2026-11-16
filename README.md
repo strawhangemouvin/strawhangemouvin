@@ -5,7 +5,6 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d28502975dd.gif" width="100%">
 </div>
-
 ---
 
 ### 💻 About Me
@@ -45,17 +44,16 @@ Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (
 <p>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-✦ **Development Tools & Version Control**
+✦ **Development Tools & IDEs**
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
 ---
 
 ## 📌 Featured Projects
