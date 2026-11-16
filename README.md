@@ -12,12 +12,12 @@
 
 Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (5th semester) at Universitas Nasional PASIM. I am passionate about exploring software development, especially backend development, database systems, and modern web applications.
 
-✦ Currently studying Informatics Engineering (5th Semester)
-✦ Interested in Backend Development, Databases, and Full-Stack Web Apps
-✦ Experienced in C#, Go, React, and SQL Server development
-✦ Programming (C) & Database Instructor, guiding students in practical learning
-✦ Active student member in the PUB organization, coordinating promotional media
-✦ Always curious about exploring new technologies
+* ✦ Currently studying Informatics Engineering (5th Semester)
+* ✦ Interested in Backend Development, Databases, and Full-Stack Web Apps
+* ✦ Experienced in C#, Go, React, and SQL Server development
+* ✦ Programming (C) & Database Instructor, guiding students in practical learning
+* ✦ Active student member in the PUB organization, coordinating promotional media
+* ✦ Always curious about exploring new technologies
 
 > *"Keep learning, keep building, and keep growing."*
 
