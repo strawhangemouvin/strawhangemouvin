@@ -5,18 +5,19 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d28502975dd.gif" width="100%">
 </div>
+
 ---
 
 ### 💻 About Me
 
 Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (5th semester) at Universitas Nasional PASIM. I am passionate about exploring software development, especially backend development, database systems, and modern web applications.
 
-* ✦ Currently studying Informatics Engineering (5th Semester)
-* ✦ Interested in Backend Development, Databases, and Full-Stack Web Apps
-* ✦ Experienced in C#, Go, React, and SQL Server development
-* ✦ Programming (C) & Database Instructor, guiding students in practical learning
-* ✦ Active student member in the PUB organization, coordinating promotional media
-* ✦ Always curious about exploring new technologies
+✦ Currently studying Informatics Engineering (5th Semester)
+✦ Interested in Backend Development, Databases, and Full-Stack Web Apps
+✦ Experienced in C#, Go, React, and SQL Server development
+✦ Programming (C) & Database Instructor, guiding students in practical learning
+✦ Active student member in the PUB organization, coordinating promotional media
+✦ Always curious about exploring new technologies
 
 > *"Keep learning, keep building, and keep growing."*
 
@@ -27,8 +28,11 @@ Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (
 ✦ **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
@@ -54,6 +58,7 @@ Hello! I'm **Nabila Monica**, an undergraduate Informatics Engineering student (
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
 ---
 
 ## 📌 Featured Projects
